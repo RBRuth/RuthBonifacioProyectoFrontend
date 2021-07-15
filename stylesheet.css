@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+SC:wght@300;400;500;600;700&family=Roboto+Condensed:wght@300;400;700&family=Roboto:wght@100;400;500;900&display=swap');
+.titulo {
+    color: white;
+    font-size: 80px;
+    font-family: Encode Sans SC;
+    font-weight: 800;
+    text-align: center;
+    margin-top: 80px;
+
+} 
+
+.Bienvenidos {
+    font-family: Roboto Condensed;
+    color:rgb(255, 255, 255);
+    font-size: 50px;
+    font-weight: 400;
+    text-align: center;
+    margin: 60px;  
+}
+.link{
+    color: rgb(255, 255, 255);
+    font-family: Roboto Condensed;
+    font-size: 25px;
+    font-weight: 300;
+    text-decoration: none;
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid rgb(237, 221, 3);         
+}
+
+.principal{
+ background: black;
+
+}
+.imagenprincipal{
+    padding: 10px; 
+    margin: 10px; 
+    float: right; 
+    width: 250px;
+}
+.titulo2 {
+    color: white;
+    font-size: 35px;
+    font-family: Encode Sans SC;
+    font-weight: 800;
+    text-align: center;
+    margin-top: 80px;
+
+} 
+.texto{
+    color: white;
+    font-family: Roboto Condensed;
+    font-size: 20px;
+
+}
+.texto2{
+    color: white;
+    font-family: Roboto Condensed;
+    font-size: 15px;
+}
+.textobase{
+    font-family: Roboto ;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+.productos{
+    color: white;
+}
+.principal{
+    background-image: url(/images/background.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
+.productos{
+    color: white;
+}
+.imagenfrente{
+    float:left;
+    width: 400px;
+    margin: 10px;
+}
+.imagenlocal{
+    width: 300px;
+  
+}
+
