@@ -75,8 +75,13 @@
     background-size: cover;
 
 }
-.productos{
-    color: white;
+
+.textoproductos{
+ text-align: center; 
+ font-size: 30px;
+ color: white;
+ font-family: Roboto Condensed;
+ 
 }
 .imagenfrente{
     float:left;
@@ -87,4 +92,68 @@
     width: 300px;
   
 }
+.imagenesproductos{
+    text-align: center;
+}
+.iconos{
+    text-align: center;
+}
+.ubicacion{
+    text-align: center;
+}
+@media (max-width: 568px){
+.link {
+    color: rgb(255, 255, 255);
+    font-family: Roboto Condensed;
+    font-size: 15px;
+    font-weight: 100;
+    text-decoration: none;
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid rgb(255, 255, 255);         
+}
+.titulo {
+    color: white;
+    font-size: 40px;
+    font-family: Encode Sans SC;
+    font-weight: 800;
+    text-align: center;
+    margin-top: 60px;
+}
 
+.Bienvenidos {
+    font-family: Roboto Condensed;
+    color:rgb(255, 255, 255);
+    font-size: 40px;
+    font-weight: 400;
+    text-align: center;
+    margin: 60px;  
+}
+.titulo2 {
+    color: white;
+    font-size: 30px;
+    font-family: Encode Sans SC;
+    font-weight: 800;
+    text-align: center;
+    margin-top: 60px;
+
+} 
+.imagenfrente{
+    float:left;
+    width: 260px;
+    margin: 30px;
+}
+.texto{
+    color: white;
+    font-family: Roboto Condensed;
+    font-size: 15px;
+}
+.textoproductos{
+    text-align: center; 
+    font-size: 18px;
+}
+.imagenlocal{
+    width: 250px;
+    margin-top: 5px;
+}
+}
